@@ -34,5 +34,6 @@ public class Week2BetaLab1 {
         } else {
             System.out.println("Jackpot!");
         }
+    System.out.println("Successfully uploaded to GitHub!");
     }
 }
